@@ -1,0 +1,61 @@
+
+======================================================================
+N-GRAM TEXT ANALYSIS RESULTS
+======================================================================
+
+SUMMARY STATISTICS
+----------------------------------------------------------------------
+Files Analyzed: 3
+Total Tokens: 339
+Unique Tokens: 167
+Indexed Nouns Found: 83
+
+
+TOP UNIGRAMS (Single Words)
+============================
+1. and: 23
+2. data: 15
+3. language: 12
+4. for: 10
+5. python: 9
+6. analysis: 9
+7. text: 8
+8. learning: 7
+
+
+TOP BIGRAMS (Two-Word Sequences)
+=================================
+1. machine learning: 6
+2. natural language: 5
+3. data analysis: 5
+4. is a: 4
+5. neural networks: 4
+6. for data: 4
+7. language processing: 4
+8. artificial intelligence: 3
+
+
+TOP TRIGRAMS (Three-Word Sequences)
+====================================
+1. natural language processing: 4
+2. learning is a: 2
+3. is a subset: 2
+4. a subset of: 2
+5. text data to: 2
+6. machine learning algorithms: 2
+7. and natural language: 2
+8. emphasizes code readability: 2
+
+
+TOP INDEXED NOUNS
+==================
+1. data: 15
+2. language: 12
+3. python: 9
+4. analysis: 9
+5. text: 8
+6. learning: 7
+7. machine: 6
+8. processing: 6
+
+======================================================================

@@ -1,0 +1,114 @@
+{
+  "python": {
+    "type": "programming language",
+    "category": "technology"
+  },
+  "data": {
+    "type": "information",
+    "category": "general"
+  },
+  "analysis": {
+    "type": "process",
+    "category": "general"
+  },
+  "text": {
+    "type": "content",
+    "category": "general"
+  },
+  "language": {
+    "type": "communication",
+    "category": "general"
+  },
+  "model": {
+    "type": "representation",
+    "category": "general"
+  },
+  "system": {
+    "type": "structure",
+    "category": "general"
+  },
+  "application": {
+    "type": "software",
+    "category": "technology"
+  },
+  "code": {
+    "type": "instructions",
+    "category": "technology"
+  },
+  "algorithm": {
+    "type": "procedure",
+    "category": "technology"
+  },
+  "function": {
+    "type": "operation",
+    "category": "programming"
+  },
+  "module": {
+    "type": "component",
+    "category": "programming"
+  },
+  "file": {
+    "type": "document",
+    "category": "general"
+  },
+  "word": {
+    "type": "token",
+    "category": "linguistics"
+  },
+  "token": {
+    "type": "unit",
+    "category": "linguistics"
+  },
+  "frequency": {
+    "type": "occurrence",
+    "category": "statistics"
+  },
+  "distribution": {
+    "type": "pattern",
+    "category": "statistics"
+  },
+  "learning": {
+    "type": "process",
+    "category": "machine learning"
+  },
+  "machine": {
+    "type": "device",
+    "category": "technology"
+  },
+  "intelligence": {
+    "type": "capability",
+    "category": "AI"
+  },
+  "network": {
+    "type": "structure",
+    "category": "technology"
+  },
+  "processing": {
+    "type": "operation",
+    "category": "computing"
+  },
+  "science": {
+    "type": "field",
+    "category": "general"
+  },
+  "library": {
+    "type": "collection",
+    "category": "programming"
+  },
+  "framework": {
+    "type": "structure",
+    "category": "programming"
+  },
+  "dataset": {
+    "type": "collection",
+    "category": "data"
+  },
+  "training": {
+    "type": "process",
+    "category": "machine learning"
+  },
+  "prediction": {
+    "type": "output",
+    "category": "machine learning"
+  }
+}

@@ -1,0 +1,11 @@
+Data science combines multiple fields including statistics, data analysis, and machine learning.
+Data scientists use programming languages like Python and R for data analysis tasks. Python 
+has become the dominant language for data science due to its extensive libraries and frameworks.
+
+The Python ecosystem includes powerful libraries for data manipulation and analysis. NumPy provides 
+support for large multi-dimensional arrays and matrices. Pandas offers data structures and operations 
+for manipulating numerical tables and time series data. Scikit-learn provides machine learning 
+algorithms for data mining and data analysis applications.
+
+Text processing and natural language processing are essential skills for modern data analysis.
+Python provides excellent tools for text analysis and natural language processing tasks.
